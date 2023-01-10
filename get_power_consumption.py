@@ -1,5 +1,4 @@
-import os
-
+#!/bin/python
 
 def get_file_value(filepath):
     with open(filepath) as file:
